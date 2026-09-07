@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FiLinkedin, FiGithub, FiMail, FiInstagram, FiX, FiDownload } from 'react-icons/fi';
-import fotoProfil from '../assets/profil.jpeg';
+import fotoProfil from '../assets/me/profil.jpeg';
 import fileCV from '../assets/CV_Harry-Rudolf-Kountur.pdf'; 
 
 const Hero = () => {

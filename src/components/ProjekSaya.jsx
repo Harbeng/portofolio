@@ -36,7 +36,7 @@ const ProjekSaya = () => {
       linkLive: "https://sistem-klasifikasi-ikan.com/"  
     },
     {
-      title: "Sistem Monitoring Skripsi & IoT",
+      title: "Alat IoT Alarm & E-Nose untuk Klasifikasi Kesegaran Ikan",
       desc: "Monitoring proses berbasis ESP32, React, dan database Supabase yang di-deploy via Railway.",
       fullDesc: "Platform pemantauan terintegrasi yang menghubungkan perangkat keras (ESP32) dengan antarmuka web modern. Dibangun menggunakan React.js untuk sisi frontend, Supabase sebagai basis data real-time, dan di-deploy menggunakan infrastruktur Railway untuk memastikan ketersediaan sistem yang tinggi dan respons yang cepat.",
       tags: ["C++", "Arduino IDE", "IoT", "ESP32 DevKit V1", "Sensor MQ-137", "Sensor MQ-135", "Sensor BME688", "Sensor ZE08-CH2O", "Buzzer"],

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FiUser, FiBook, FiMapPin, FiBriefcase, FiX } from 'react-icons/fi';
-import fotoHarry from '../assets/harry.png';
+import fotoHarry from '../assets/me/harry.png';
 
 const TentangSaya = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -25,7 +25,8 @@ const TentangSaya = () => {
           <div className="bg-gray-200 h-80 rounded-2xl mb-4 shadow-sm overflow-hidden flex items-center justify-center">
             <img 
               src={fotoHarry} 
-              alt="Harry Rudolf Kountur" 
+              alt="Harry Rudolf Kountur"
+              loading="lazy" 
               className="w-full h-full object-cover [image-rendering:-webkit-optimize-contrast]" 
             />
           </div>

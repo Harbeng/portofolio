@@ -1,6 +1,6 @@
 import React from 'react';
 import { FiMail, FiPhone, FiMapPin, FiLinkedin } from 'react-icons/fi';
-import ilustrasiConnect from '../assets/harko.png'; 
+import ilustrasiConnect from '../assets/me/harko.png'; 
 
 const Kontak = () => {
   return (
@@ -71,6 +71,7 @@ const Kontak = () => {
              <img 
                src={ilustrasiConnect} 
                alt="Mari Terhubung" 
+               loading="lazy"
                className="w-full h-full object-cover" 
              />
            </div>

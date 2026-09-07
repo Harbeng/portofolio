@@ -6,11 +6,11 @@ import Networking from "../assets/Networking.jpg";
 import certNetworkFront from '../assets/gamki.png';
 import certNetworkBack from '../assets/gamki.png';
 
-import certDigitalFront from '../assets/digital1.png';
-import certDigitalBack from '../assets/digital2.png';
+import certDigitalFront from '../assets/sertifikat/digital1.png';
+import certDigitalBack from '../assets/sertifikat/digital2.png';
 
-import certDataFront from '../assets/data1.png';
-import certDataBack from '../assets/data2.png';
+import certDataFront from '../assets/sertifikat/data1.png';
+import certDataBack from '../assets/sertifikat/data2.png';
 
 import certAIFront from '../assets/gamki.png';
 import certAIBack from '../assets/gamki.png';
