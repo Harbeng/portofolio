@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import TentangSaya from './components/TentangSaya';
 import Keahlian from './components/Keahlian';
 import ProjekSaya from './components/ProjekSaya';
-import DesainSaya from './components/DesainSaya';
+// import DesainSaya from './components/DesainSaya';
 import Pengalaman from './components/Pengalaman';
 import Sertifikat from './components/Sertifikat';
 import Kontak from './components/Kontak';
@@ -19,9 +19,9 @@ function App() {
         <TentangSaya />
         <Keahlian />
         <ProjekSaya />
-        <DesainSaya />
         <Pengalaman />
         <Sertifikat />
+        {/* <DesainSaya /> */}
         <Kontak />
       </main>
       <Footer />

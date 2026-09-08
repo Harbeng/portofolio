@@ -3,17 +3,17 @@ import { FiX, FiZoomIn } from 'react-icons/fi';
 
 import Networking from "../assets/Networking.jpg";
 
-import certNetworkFront from '../assets/gamki.png';
-import certNetworkBack from '../assets/gamki.png';
+import certNetworkFront from '../assets/sertifikat/Jaringan/Jaringan1.jpg';
+import certNetworkBack from '../assets/sertifikat/Jaringan/Jaringan2.jpg';
 
-import certDigitalFront from '../assets/sertifikat/digital1.png';
-import certDigitalBack from '../assets/sertifikat/digital2.png';
+import certDigitalFront from '../assets/sertifikat/DM/DM1.jpg';
+import certDigitalBack from '../assets/sertifikat/DM/DM2.jpg';
 
-import certDataFront from '../assets/sertifikat/data1.png';
-import certDataBack from '../assets/sertifikat/data2.png';
+import certDataFront from '../assets/sertifikat/DMS/DMS1.jpg';
+import certDataBack from '../assets/sertifikat/DMS/DMS2.jpg';
 
-import certAIFront from '../assets/gamki.png';
-import certAIBack from '../assets/gamki.png';
+import certAIFront from '../assets/sertifikat/AI/AI1.jpg';
+import certAIBack from '../assets/sertifikat/AI/AI2.jpg';
 
 const Sertifikat = () => {
   // State untuk menyimpan data sertifikat yang sedang diklik (Modal Info)

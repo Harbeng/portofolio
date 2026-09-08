@@ -25,7 +25,7 @@ const DesainSaya = () => {
     <section id="desain" className="mt-32 px-4 md:px-0">
       <div className="flex justify-between items-end mb-8">
         <h2 className="text-3xl font-bold text-gray-900 flex items-center gap-4">
-          Desain Saya <span className="w-16 h-[2px] bg-blue-600 block"></span>
+          Portofolio Desain <span className="w-16 h-[2px] bg-blue-600 block"></span>
         </h2>
         {/* Tombol Lihat Semua Desain telah dihilangkan */}
       </div>

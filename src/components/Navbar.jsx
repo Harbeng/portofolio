@@ -11,9 +11,9 @@ const Navbar = () => {
         <li><a href="#home" className="text-gray-900 font-semibold hover:text-blue-600 transition">Home</a></li>
         <li><a href="#tentang" className="hover:text-gray-900 transition">Tentang</a></li>
         <li><a href="#projek" className="hover:text-gray-900 transition">Projek</a></li>
-        <li><a href="#desain" className="hover:text-gray-900 transition">Desain</a></li>
         <li><a href="#pengalaman" className="hover:text-gray-900 transition">Pengalaman</a></li>
         <li><a href="#sertifikat" className="hover:text-gray-900 transition">Sertifikat</a></li>
+        {/* <li><a href="#desain" className="hover:text-gray-900 transition">Desain</a></li> */}
         <li><a href="#kontak" className="hover:text-gray-900 transition">Kontak</a></li>
       </ul>
 

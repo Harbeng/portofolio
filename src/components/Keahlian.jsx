@@ -86,10 +86,10 @@ const Keahlian = () => {
                   </h4>
                   <ul className="space-y-3 text-gray-600 text-sm">
                     <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> HTML, CSS, JavaScript, React.js, dan Node.js untuk pengembangan website yang responsif.</li>
-                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Pengalaman Full Stack Web Development dan pemrosesan integrasi API.</li>
-                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Pemahaman operasional manajemen basis data relasional meliputi MySQL dan ekosistem Supabase.</li>
+                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Pengalaman dalam Full Stack Web Development serta integrasi API.</li>
+                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Pemahaman manajemen basis data relasional menggunakan MySQL dan Supabase.</li>
                     <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Implementasi logika algoritma kecerdasan buatan (CNN) dan arsitektur Internet of Things (IoT).</li>
-                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Keahlian Administrasi Jaringan (Network Administration) serta pengelolaan dan keamanan data.</li>
+                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Keahlian Administrasi Jaringan (Network Administration) serta pengelolaan jaringan dan perangkat.</li>
                   </ul>
                 </div>
               </div>
@@ -102,9 +102,8 @@ const Keahlian = () => {
                   </h4>
                   <ul className="space-y-3 text-gray-600 text-sm">
                     <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Memiliki pemikiran kritis dalam Analisis Sistem dan Pemecahan Masalah teknologi.</li>
-                    <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Teruji dalam Kepemimpinan dan Manajemen Tim, serta Kolaborasi Tim dengan Komunikasi Efektif.</li>
-                    <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Pengalaman praktis dalam Manajemen Proyek dan pemeliharaan Operasional Digital.</li>
-                    <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Mampu merancang dan mengeksekusi Strategi Publikasi serta Kampanye Digital.</li>
+                    <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Memiliki kemampuan kepemimpinan, manajemen tim, dan kolaborasi.</li>
+                    <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Memiliki pengalaman dalam manajemen proyek dan pengelolaan operasional digital.</li>
                     <li className="flex items-start gap-2"><FiTarget className="mt-1 text-indigo-500 shrink-0" /> Cepat beradaptasi terhadap inovasi teknologi terbaru untuk efisiensi pekerjaan.</li>
                   </ul>
                 </div>
@@ -115,7 +114,8 @@ const Keahlian = () => {
                   </h4>
                   <ul className="space-y-3 text-gray-600 text-sm">
                     <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Digital Marketing & Administrasi Keuangan operasional.</li>
-                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Mahir menggunakan Microsoft Office Suite untuk dokumentasi bisnis.</li>
+                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Terampil menggunakan Microsoft Office (Word, Excel, dan PowerPoint) untuk administrasi, pengolahan data, dokumentasi, dan presentasi.</li>
+                    <li className="flex items-start gap-2"><FiCheckCircle className="mt-1 text-green-500 shrink-0" /> Graphic Design: Poster, pamflet, banner, desain kaos, dan materi publikasi digital menggunakan Canva.</li>
                   </ul>
                 </div>
               </div>
