@@ -59,9 +59,9 @@ const Pengalaman = () => {
             </div>
             <p className="text-gray-700 font-medium mb-4">Koordinator Divisi Publikasi dan Sosialisasi (Jul 2024 - Jun 2025) | Anggota (Jul 2023 - Jun 2024)</p>
             <ul className="list-disc list-inside text-gray-600 space-y-2 text-sm md:text-base">
-              <li>Memimpin tim divisi Publikasi dan Sosialisasi dalam merancang kalender konten dan mengeksekusi strategi kampanye digital, meningkatkan engagement media sosial organisasi hingga 30%.</li>
+              <li>Memimpin tim divisi Publikasi dan Sosialisasi dalam merancang kalender konten dan mengeksekusi strategi kampanye digital.</li>
               <li>Memproduksi dan mengelola konten visual, desain grafis, serta dokumentasi untuk mengedukasi masyarakat terkait kebijakan Bank Indonesia (seperti QRIS dan Cinta Bangga Paham Rupiah).</li>
-              <li>Berpartisipasi aktif dalam merencanakan dan merealisasikan lebih dari 5 program kerja di bidang pendidikan, lingkungan, dan sosial masyarakat selama menjadi anggota aktif.</li>
+              <li>Berpartisipasi aktif dalam merencanakan dan merealisasikan beberapa program kerja di bidang pendidikan, lingkungan, dan sosial masyarakat selama menjadi anggota aktif.</li>
             </ul>
           </div>
         </div>
